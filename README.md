@@ -6,6 +6,7 @@ Description of what I've done in the program:
 3) <b>sum30.java</b> - program for the calculation of the first 30 natural numbers excluding 10,20 and 30.
 4) <b>greatest3.java</b> - an object oriented programming and functional programming concept on as to how one can compute the greatest of 3 numbers. 
 5) <b>greatestcmdl3.java</b> - an object oriented programming and functional programming concept on as to how one can compute the greatest of 3 numbers inputted by the user on command prompt. 
+6) <b>scanner_input.java</b> - a program that asks user to input the data using the Scanner class.
 
 <b>Tools required :</b> 
 - JDK (JAVA Development Kit) which can be downloaded from "https://java.com/download"
