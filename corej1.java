@@ -1,10 +1,13 @@
-import java.io.*;
 class corej1
 {
 public static void main(String[] args)
 {
-int i=0;
-for(i=0;i<10;i++)
-System.out.println(i);
+//declaring a variable i with the initial value set to 0
+    int i=0;
+//running a for loop on the variable i
+//Syntax for a for-loop -> for(Initialisation Expression;Conditional/Test Expression;Updation Expression)
+    
+    for(;i<10;i++) //Since I've already initialised variable i, I don't need to reinitialise it
+	System.out.println(i);
 }
 }
