@@ -4,12 +4,11 @@ Description of what I've done in the program:
 1) <b>corej1.java</b> - Simple 'for' iterative loop for printing natural numbers upto 10.
 2) <b>factorial.java</b> - program for the calculation of factorial of number pre-defined in the program using 'for' loop.
 3) <b>sum30.java</b> - program for the calculation of the first 30 natural numbers excluding 10,20 and 30.
-4) <b>greatest3.java</b> - an object oriented programming and functional programming concept on as to how one can compute the greatest of 3 numbers. 
-5) <b>greatestcmdl3.java</b> - an object oriented programming and functional programming concept on as to how one can compute the greatest of 3 numbers inputted by the user on command prompt. 
-6) <b>scanner_input.java</b> - a program that asks user to input the data using the Scanner class.
-7) <b>factorial_input.java</b> - program for the calculation of factorial of number 'x' using 'for' loop.
-8) <b>rev_num.java</b> - a program to compute reverse of a number.
-9) <b>palindrome.java</b> - a program to determine whether a number is palindromic or not.
+4) <b>greatestcmdl3.java</b> - an object oriented programming and functional programming concept on as to how one can compute the greatest of 3 numbers inputted by the user on command prompt. 
+5) <b>scanner_input.java</b> - a program that asks user to input the data using the Scanner class.
+6) <b>factorial_input.java</b> - program for the calculation of factorial of number 'x' using 'for' loop.
+7) <b>rev_num.java</b> - a program to compute reverse of a number.
+8) <b>palindrome.java</b> - a program to determine whether a number is palindromic or not.
 
 <b>Tools required :</b> 
 - JDK (JAVA Development Kit) which can be downloaded from "https://java.com/download"
