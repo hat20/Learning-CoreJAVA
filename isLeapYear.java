@@ -13,26 +13,26 @@ public static void main(String args[])
 	Scanner fp = new Scanner(System.in);
 	System.out.println("Enter the year you want to check");
 	int year = fp.nextInt();
-	if(obj.checkLeapYear(year))
+	if(obj.checkLeapYear(year)==1)
 		System.out.println("It is a leap year");
 	else
 		System.out.println("It is not a leap year");
 }
 
-boolean checkLeapYear(int year)
+int checkLeapYear(int year)
 {
 //Checking for the century year
 	if(year%100 == 0)
 	{
 		if(year%400 == 0)
-			return true;
+			return 1;
 		else
-		    return false;
+		    return 0;
 	}
 //checking for non-century year
 	else if(year%4 == 0)
-		return true;
+		return 1;
 	else
-		return false;
+		return 0;
 }
 }				    	
