@@ -10,6 +10,7 @@ Description of what I've done in the program:
 7) <b>rev_num.java</b> - a program to compute reverse of a number.
 8) <b>palindrome.java</b> - a program to determine whether a number is palindromic or not.
 9) <b>isLeapYear.java</b> - a program to determine whether an year is a leap year or not.
+10) <b>automorphic.java</b> - a program to check whether a number is automorphic or not.
 
 <b>Tools required :</b> 
 - JDK (JAVA Development Kit) which can be downloaded from "https://java.com/download"
