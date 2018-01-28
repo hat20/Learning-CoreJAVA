@@ -11,13 +11,22 @@ Description of what I've done in the program:
 8) <b>palindrome.java</b> - a program to determine whether a number is palindromic or not.
 9) <b>isLeapYear.java</b> - a program to determine whether an year is a leap year or not.
 10) <b>automorphic.java</b> - a program to check whether a number is automorphic or not.
+11) <b>date_to_days.java</b> - a program to calculate number of days between a date you enter and 1st Jan of the same year you entered in date.
 
 <b>Tools required :</b> 
+<i>In WINDOWS</i>
 - JDK (JAVA Development Kit) which can be downloaded from "https://java.com/download"
-- Command prompt (as I am using Windows environment to implement these programs)
+- Command prompt
 - Notepad
 
+<i>In Ubuntu 16.04LTS</i>
+- JDK (JAVA Development Kit) which can be installed using "sudo apt-get install openjdk-8*"
+- Text Editor - you can try using the pre-installed graphical editor "gedit filename.java"
+(All the above code has to be implemented in terminal Ctrl+Alt+T)
+
 <b>Steps for implementation:</b>
+<i>In WINDOWS</i>
+
 - First you need to find the address of where the jdk is installed in your pc. It would probably be stored in a location like this "C:\Program Files\Java\jdk-9.0.1\bin" or
   "WindowsDrive:\Program Files\Java\jdk-9.0.1\bin". You need to copy the address.
 - Now, open CMD and write "path= C:\Program Files\Java\jdk-9.0.1\bin" or "path= paste what you copied" which sets the path temporarily. You need to do this everytime you need to run Java programs on your PC.
@@ -26,7 +35,12 @@ Description of what I've done in the program:
 - To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
 - That's it, enjoy!
 
-P.S - You can use some other platform like BlueJ, Netbeans, etc. but I would advise you to use Notepad as it is harder to find mistakes you
+<i>In UBUNTU 16.04LTS</i>
+- Just change your current directory to where your programs are stored. If you don't know how to do it then simply paste the programs on Desktop and type "cd Desktop" on Terminal.
+- To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
+- That's it, enjoy!
+
+P.S (for windows users) - You can use some other platform like BlueJ, Netbeans, etc. but I would advise you to use Notepad as it is harder to find mistakes you
 committed which makes you better at debugging, atleast that's what I think.
 
 
