@@ -12,8 +12,10 @@ Description of what I've done in the program:
 9) <b>isLeapYear.java</b> - a program to determine whether an year is a leap year or not.
 10) <b>automorphic.java</b> - a program to check whether a number is automorphic or not.
 11) <b>date_to_days.java</b> - a program to calculate number of days between a date you enter and 1st Jan of the same year you entered in date.
+12) <b>days_btwn_dates.java</b> - a program that calculates the number of days there are in between two dates.
 
 <b>Tools required :</b> 
+
 <i>In WINDOWS</i>
 - JDK (JAVA Development Kit) which can be downloaded from "https://java.com/download"
 - Command prompt
@@ -25,8 +27,8 @@ Description of what I've done in the program:
 (All the above code has to be implemented in terminal Ctrl+Alt+T)
 
 <b>Steps for implementation:</b>
-<i>In WINDOWS</i>
 
+<i>In WINDOWS</i>
 - First you need to find the address of where the jdk is installed in your pc. It would probably be stored in a location like this "C:\Program Files\Java\jdk-9.0.1\bin" or
   "WindowsDrive:\Program Files\Java\jdk-9.0.1\bin". You need to copy the address.
 - Now, open CMD and write "path= C:\Program Files\Java\jdk-9.0.1\bin" or "path= paste what you copied" which sets the path temporarily. You need to do this everytime you need to run Java programs on your PC.
@@ -35,7 +37,7 @@ Description of what I've done in the program:
 - To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
 - That's it, enjoy!
 
-<i>In UBUNTU 16.04LTS</i>
+<i>In Ubuntu 16.04LTS</i>
 - Just change your current directory to where your programs are stored. If you don't know how to do it then simply paste the programs on Desktop and type "cd Desktop" on Terminal.
 - To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
 - That's it, enjoy!
