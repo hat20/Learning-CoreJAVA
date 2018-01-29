@@ -13,6 +13,7 @@ Description of what I've done in the program:
 10) <b>automorphic.java</b> - a program to check whether a number is automorphic or not.
 11) <b>date_to_days.java</b> - a program to calculate number of days between a date you enter and 1st Jan of the same year you entered in date.
 12) <b>days_btwn_dates.java</b> - a program that calculates the number of days there are in between two dates.
+13) <b>array.java</b> - a program that focuses on basic array manipulations such as finding min and max elements and finding average and sum of the squares of all the elements in the array.
 
 <b>Tools required :</b> 
 
