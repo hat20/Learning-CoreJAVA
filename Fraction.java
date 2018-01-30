@@ -1,3 +1,6 @@
+/*
+This is an object oriented programming based program which is based to perform certain operations such as addition, subtraction and multiplication on fractions
+*/
 import java.util.*;
 class Fraction
 {
