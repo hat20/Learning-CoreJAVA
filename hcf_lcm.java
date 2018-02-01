@@ -1,5 +1,5 @@
 /*
-This program aims to calculate hcf and lcm of the two numbers.
+This program aims to calculate hcf and lcm of the two positive integers.
 */
 import java.util.*;
 class hcf_lcm
