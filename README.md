@@ -19,6 +19,7 @@ Description of what I've done in the program:
 16) <b>hcf_lcm.java</b> - calculating HCF and LCM of two positive integers.
 17) <b>bubblesort.java</b> - Sorting the elements of an array using bubble sort.
 18) <b>finding_element.java</b> - Searching an element in an array using linear search.
+19) <b>findCharacterInString.java</b> -Searching a character in a string using indexOf function.
 
 <b>Tools required :</b> 
 
