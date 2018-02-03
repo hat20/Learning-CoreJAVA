@@ -18,6 +18,7 @@ Description of what I've done in the program:
 15) <b>arr_move.java</b> - performing moving operations on the elements of an array.
 16) <b>hcf_lcm.java</b> - calculating HCF and LCM of two positive integers.
 17) <b>bubblesort.java</b> - Sorting the elements of an array using bubble sort.
+18) <b>finding_element.java</b> - Searching an element in an array using linear search.
 
 <b>Tools required :</b> 
 
