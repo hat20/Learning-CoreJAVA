@@ -21,6 +21,8 @@ Description of what I've done in the program:
 18) <b>finding_element.java</b> - Searching an element in an array using linear search.
 19) <b>findCharacterInString.java</b> - Searching the first occurrence of a character in a string using indexOf function.
 20) <b>findStringInString.java</b> - Searching the first occurrence of a string in a sentence using indexOf function. 
+21) <b>emirp.java</b> - a program to determine whether a number is EMIRP or not.
+22) <b>primepalindrome.java</b> - a program to determine whether a number is prime palindrome or not.
 
 <b>Tools required :</b> 
 
