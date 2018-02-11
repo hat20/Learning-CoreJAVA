@@ -1,3 +1,12 @@
+/*
+This program outputs the digit of a number you entered.
+For example -
+Input - 
+302
+Output - 
+302 -> Three Zero Two
+*/
+
 import java.util.*;
 class num_to_words
 {

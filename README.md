@@ -23,6 +23,7 @@ Description of what I've done in the program:
 20) <b>findStringInString.java</b> - Searching the first occurrence of a string in a sentence using indexOf function. 
 21) <b>emirp.java</b> - a program to determine whether a number is EMIRP or not.
 22) <b>primepalindrome.java</b> - a program to determine whether a number is prime palindrome or not.
+23) <b>num_to_words.java</b> - program that outputs the digits of a number you entered in words.
 
 <b>Tools required :</b> 
 
