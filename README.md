@@ -24,6 +24,7 @@ Description of what I've done in the program:
 21) <b>emirp.java</b> - a program to determine whether a number is EMIRP or not.
 22) <b>primepalindrome.java</b> - a program to determine whether a number is prime palindrome or not.
 23) <b>num_to_words.java</b> - program that outputs the digits of a number you entered in words.
+24) <b>fact_recursion.java</b> - program that finds the factorial of a positive integer using recursion.
 
 <b>Tools required :</b> 
 
