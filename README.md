@@ -25,6 +25,7 @@ Description of what I've done in the program:
 22) <b>primepalindrome.java</b> - a program to determine whether a number is prime palindrome or not.
 23) <b>num_to_words.java</b> - program that outputs the digits of a number you entered in words.
 24) <b>fact_recursion.java</b> - program that finds the factorial of a positive integer using recursion.
+25) <b>rev_string_manipulation</b> - a program that reverses a string without affecting special characters.
 
 <b>Tools required :</b> 
 
