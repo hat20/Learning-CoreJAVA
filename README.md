@@ -26,6 +26,11 @@ Description of what I've done in the program:
 23) <b>num_to_words.java</b> - program that outputs the digits of a number you entered in words.
 24) <b>fact_recursion.java</b> - program that finds the factorial of a positive integer using recursion.
 25) <b>rev_string_manipulation</b> - a program that reverses a string without affecting special characters.
+26) <b>StringTest.java</b> - a program performing string manipulations.
+27) <b>RemoveX.java</b> - a program that removes the character 'x' from the text, the only exception being the 1st and last position.
+28) <b>SurnameChange.java</b> - a program that changes the surname of two people using substring.
+29) <b>AcceptablePassword.java<b> - a program that runs for as long as the user doesn't satisfy the predefined password criteria. 
+30) <b>ASCII_add.java<b> - a program that adds the ASCII code of the characters of two string.
 
 <b>Tools required :</b> 
 
