@@ -29,8 +29,8 @@ Description of what I've done in the program:
 26) <b>StringTest.java</b> - a program performing string manipulations.
 27) <b>RemoveX.java</b> - a program that removes the character 'x' from the text, the only exception being the 1st and last position.
 28) <b>SurnameChange.java</b> - a program that changes the surname of two people using substring.
-29) <b>AcceptablePassword.java<b> - a program that runs for as long as the user doesn't satisfy the predefined password criteria. 
-30) <b>ASCII_add.java<b> - a program that adds the ASCII code of the characters of two string.
+29) <b>AcceptablePassword.java</b> - a program that runs for as long as the user doesn't satisfy the predefined password criteria. 
+30) <b>ASCII_add.java</b> - a program that adds the ASCII code of the characters of two string.
 
 <b>Tools required :</b> 
 
