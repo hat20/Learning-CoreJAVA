@@ -21,6 +21,7 @@ Description of what I've done in the program:
 18) <b>finding_element.java</b> - Searching an element in an array using linear search.
 19) <b>findCharacterInString.java</b> - Searching the first occurrence of a character in a string using indexOf function.
 20) <b>findStringInString.java</b> - Searching the first occurrence of a string in a sentence using indexOf function. 
+21) <b>RandomNumbers.java</b> - Program to generate 'n' unique/non-unique random numbers in the range of 0 to 100.
 21) <b>emirp.java</b> - a program to determine whether a number is EMIRP or not.
 22) <b>primepalindrome.java</b> - a program to determine whether a number is prime palindrome or not.
 23) <b>num_to_words.java</b> - program that outputs the digits of a number you entered in words.
@@ -52,12 +53,12 @@ Description of what I've done in the program:
 - Now, open CMD and write "path= C:\Program Files\Java\jdk-9.0.1\bin" or "path= paste what you copied" which sets the path temporarily. You need to do this everytime you need to run Java programs on your PC.
 - Type <b>javac</b> to check whether you were able to set the path without any errors, if you were then proceed to the next step otherwise repeat the above step and make sure that you followed it correctly.
 - Make sure that you change your current directory to where your programs are stored. If you don't know how to do it then simply paste the programs on Desktop and type "cd Desktop" on CMD.
-- To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
+- To run the program, type <b>javac <i><Insert_filename_here></i>.java</b> then after it compiles successfully type <b>java <i><Insert_filename_here></i></b> to run the class and see the output.
 - That's it, enjoy!
 
 <i>In Ubuntu 16.04LTS</i>
 - Just change your current directory to where your programs are stored. If you don't know how to do it then simply paste the programs on Desktop and type "cd Desktop" on Terminal.
-- To run the program, type <b>javac filename.java</b> then after it compiles successfully type <b>java filename</b> to run the class and see the output.
+- To run the program, type <b>javac <i><Insert_filename_here></i>.java</b> then after it compiles successfully type <b>java <i><Insert_filename_here></i></b> to run the class and see the output.
 - That's it, enjoy!
 
 P.S (for windows users) - You can use some other platform like BlueJ, Netbeans, etc. but I would advise you to use Notepad as it is harder to find mistakes you
