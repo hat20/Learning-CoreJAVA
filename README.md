@@ -33,7 +33,7 @@ Description of what I've done in the program:
 29) <b>AcceptablePassword.java</b> - a program that runs for as long as the user doesn't satisfy the predefined password criteria. 
 30) <b>ASCII_add.java</b> - a program that adds the ASCII code of the characters of two string.
 31) <b>ReadingDataFromFile</b> - a program to read a text file using Buffered Reader.
-32) <b>NestedClass<b> - a program implementing nested classes.
+32) <b>NestedClass</b> - a program implementing nested classes.
 
 <b>Tools required :</b> 
 
