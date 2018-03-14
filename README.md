@@ -32,8 +32,9 @@ Description of what I've done in the program:
 28) <b>SurnameChange.java</b> - a program that changes the surname of two people using substring.
 29) <b>AcceptablePassword.java</b> - a program that runs for as long as the user doesn't satisfy the predefined password criteria. 
 30) <b>ASCII_add.java</b> - a program that adds the ASCII code of the characters of two string.
-31) <b>ReadingDataFromFile</b> - a program to read a text file using Buffered Reader.
-32) <b>NestedClass</b> - a program implementing nested classes.
+31) <b>ReadingDataFromFile.java</b> - a program to read a text file using Buffered Reader.
+32) <b>NestedClass.java</b> - a program implementing nested classes.
+33) <b>Company.java</b> - a program implementing nested classes (problem statement mentioned in the code).
 
 <b>Tools required :</b> 
 
