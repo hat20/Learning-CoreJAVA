@@ -1,9 +1,9 @@
 import java.util.*;
-class bubblesort
+class SelectionSort
 {
 	public static void main(String args[])
 	{
-		bubblesort obj = new bubblesort();
+		SelectionSort obj = new SelectionSort();
 		Scanner fp = new Scanner(System.in);
 		System.out.println("Enter the number of elements you want for the array");
 		int n = fp.nextInt();
@@ -32,18 +32,20 @@ class bubblesort
 
 	int[] sort(int a[])
 	{
-		int temp = 0;
-		for(int i=0;i<a.length;i++)
-		{
-			for(int j=0;j<a.length -1-i;j++)
+		int min,temp = 0;
+		for(int i=0;i<a.length - 1;i++)
+		{	
+			min = i;
+			for(int j= i+1;j<a.length;j++)
 			{
-				if(a[j]>a[j+1])
-				{
-					temp = a[j];
-					a[j]= a[j+1];
-					a[j+1] = temp;
+				if(a[j]<a[min])
+				{	
+					min = j;
 				}
 			}
+			temp = a[min];
+			a[min]= a[i];
+			a[i] = temp;
 		}
 		return a;
 	}

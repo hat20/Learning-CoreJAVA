@@ -36,6 +36,7 @@ Description of what I've done in the program:
 32) <b>NestedClass.java</b> - a program implementing nested classes.
 33) <b>Company.java</b> - a program implementing nested classes (problem statement mentioned in the code).
 34) <b>InheritSuper.java and InheritBase.java</b> - Two classes showing simple inheritance and use of 'super'.
+35) <b>SelectionSort.java<b> - program to implement selection sorting algorithm.	
 
 <b>Tools required :</b> 
 
