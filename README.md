@@ -38,7 +38,9 @@ Description of what I've done in the program:
 34) <b>InheritSuper.java and InheritBase.java</b> - Two classes showing simple inheritance and use of 'super'.
 35) <b>SelectionSort.java</b> - program to implement selection sorting algorithm.
 36) <b>rev_recursion.java</b> - a recursive program to find the reverse of a number.	
-
+37) <b>InsertionSort.java</b> - a program to implement insertion sorting algorithm.
+ 
+>>>>>>> 7e097b8176017c63462713e33c52cf99d2c4767c
 <b>Tools required :</b> 
 
 <i>In WINDOWS</i>
