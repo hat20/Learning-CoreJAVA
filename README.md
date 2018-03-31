@@ -39,6 +39,7 @@ Description of what I've done in the program:
 35) <b>SelectionSort.java</b> - program to implement selection sorting algorithm.
 36) <b>rev_recursion.java</b> - a recursive program to find the reverse of a number.	
 37) <b>InsertionSort.java</b> - a program to implement insertion sorting algorithm.
+38) <b>Employee.java and emp.java</b> - an object oriented inheritance program.
  
 >>>>>>> 7e097b8176017c63462713e33c52cf99d2c4767c
 <b>Tools required :</b> 
