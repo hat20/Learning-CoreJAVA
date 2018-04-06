@@ -43,7 +43,6 @@ Description of what I've done in the program:
 39) <b>Point.java and Circle.java</b> - Inheritance based programs to calculate radius and area of a circle.
 40) <b>EmployeeObjArr.java and EmpObjArr.java</b> - Use of object arrays.
  
->>>>>>> 7e097b8176017c63462713e33c52cf99d2c4767c
 <b>Tools required :</b> 
 
 <i>In WINDOWS</i>
