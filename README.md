@@ -42,6 +42,7 @@ Description of what I've done in the program:
 38) <b>Employee.java and emp.java</b> - an object oriented inheritance program.
 39) <b>Point.java and Circle.java</b> - Inheritance based programs to calculate radius and area of a circle.
 40) <b>EmployeeObjArr.java and EmpObjArr.java</b> - Use of object arrays.
+41) <b>TestBankAbstract.java</b> - Abstract class example.
  
 <b>Tools required :</b> 
 
