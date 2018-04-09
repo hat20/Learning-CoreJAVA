@@ -44,6 +44,7 @@ Description of what I've done in the program:
 40) <b>EmployeeObjArr.java and EmpObjArr.java</b> - Use of object arrays.
 41) <b>TestBankAbstract.java</b> - Abstract class example.
 42) <b>Test.java</b> - Output question 1 (Object passing).
+43) <b>Anagrams.java</b> - Finding if two strings are anagrams or not.
  
 <b>Tools required :</b> 
 
