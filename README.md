@@ -45,6 +45,8 @@ Description of what I've done in the program:
 41) <b>TestBankAbstract.java</b> - Abstract class example.
 42) <b>Test.java</b> - Output question 1 (Object passing).
 43) <b>Anagrams.java</b> - Finding if two strings are anagrams or not.
+44) <b>eCar.java and eCarType.java</b> - program to determine the type of car i.e. economical or powerful.
+45) <b>Main.java</b> - Output question 2 (2-D Array).
  
 <b>Tools required :</b> 
 
